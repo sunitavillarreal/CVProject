@@ -1,8 +1,11 @@
+The files for the following can be found at https://github.com/sunitavillarreal/CVProject
+
 1. To download images using Selenium, access the 'webscraping.ipynb' file, and change the download file location to a local folder on your computer. Also, edit the list of queries with keywords of your interest. 
 
 2. To download images using the Twitter API, access the 'twitter_image_scraping_file.ipynb' file, change the first four access keys to your own. Also, edit the list of keywords of interest under 'hashtags.'
 
-Both the original dataset and the synthetic images dataset are included in the project folder.
+The original dataset can be found here: https://drive.google.com/file/d/1yQm8JcHxtMbHI4FMNoqGlXbOyLYaukvJ/view?usp=sharing
+The synthetic image dataset can be found here: https://drive.google.com/file/d/1pTEtFS6wNaNqBDkkeRMJkOGyDTgHMEfQ/view?usp=sharing
 
 Due to the size of our trained model and code base we are unable to upload it into github.
 To recreate the results from our project using StyleGANv2 please download the source code and saved models from the following link:
