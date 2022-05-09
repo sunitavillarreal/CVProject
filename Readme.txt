@@ -1,3 +1,8 @@
+1. To download images using Selenium, access the 'webscraping.ipynb' file, and change the download file location to a local folder on your computer. Also, edit the list of queries with keywords of your interest. 
+
+2. To download images using the Twitter API, access the 'twitter_image_scraping_file.ipynb' file, change the first four access keys to your own. Also, edit the list of keywords of interest under 'hashtags.'
+
+
 Due to the size of our trained model and code base we are unable to upload it into github.
 To recreate the results from our project using StyleGANv2 please download the source code and saved models from the following link:
 https://drive.google.com/file/d/1v_-OMnrMtTsqv2Vd0pf8NOrOz7GgLytB/view?usp=sharing
