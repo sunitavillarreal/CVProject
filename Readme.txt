@@ -32,7 +32,9 @@ The SV human detection folder we provide contains two notebooks
     "Person detector.ipynb" can be used to train a classifier to detect for humans using the crowdhuman and pass dataset
     "Filter Images.ipynb" can be used to filter images for humans using a selected trained model
     We provide a link to a trained model for human detection here:https://drive.google.com/file/d/1dOhx13jXWEq0S2Q0_D5AcRP_wwDe6kcJ/view?usp=sharing
-    This is a trained resnext101_32x8d model with additional Linear layers, the provided notebooks are able to utilize this model 
+    This is a trained resnext101_32x8d model with additional Linear layers, the provided notebooks are able to utilize this model
+    Link to the Pass dataset can be found here:https://www.robots.ox.ac.uk/~vgg/data/pass/
+    Link to the crowdhuman dataset can be found here:https://www.crowdhuman.org/
     
 #######################################################################################
 remove_duplicate_image.ipynb  
