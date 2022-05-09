@@ -2,6 +2,7 @@
 
 2. To download images using the Twitter API, access the 'twitter_image_scraping_file.ipynb' file, change the first four access keys to your own. Also, edit the list of keywords of interest under 'hashtags.'
 
+Both the original dataset and the synthetic images dataset are included in the project folder.
 
 Due to the size of our trained model and code base we are unable to upload it into github.
 To recreate the results from our project using StyleGANv2 please download the source code and saved models from the following link:
